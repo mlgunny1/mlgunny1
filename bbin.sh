@@ -1,7 +1,7 @@
 #!/bin/bash
 # bbin.sh
-# (c) 2020 Henryk M. Kowalski
-# Last edit 
+# (c) 2020 HMK
+# Last edit 5/6/2020
 
 #------------------------------------------------------------------------------------------------
 # Back up my binaries directory
